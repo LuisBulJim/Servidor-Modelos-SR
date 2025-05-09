@@ -1,0 +1,1 @@
+En esta carpeta tienen que añadirse los modelos con extensión ".pth".

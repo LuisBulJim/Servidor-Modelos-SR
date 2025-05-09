@@ -1,0 +1,10 @@
+fastapi>=0.68.0
+uvicorn>=0.15.0
+python-multipart
+pillow==9.5.0
+torch>=1.9.1
+torchvision==0.14.1
+basicsr==1.3.4.9
+einops
+numpy==1.24.3
+scikit-image==0.20.0
